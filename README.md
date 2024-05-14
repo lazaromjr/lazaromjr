@@ -1,24 +1,14 @@
 ### Hi there 👋
 
-I am Master of Science in Computer Science from UFERSA and UERN in the area of Systems and Circuits Design.
-Developed a new anti-aliasing method for my master’s thesis using Digital Image Processing tools. Currently working
-as full stack developer with C# and Node JS/React.
+I am a full-stack developer currently working with C\# and Node JS/React. Master of Science in Computer Science from UFERSA and UERN in the area of Systems and Circuits Design. Developed a new anti-aliasing method for my master's thesis using Digital Image Processing tools.
 
-- Fast learning and adapting
-- Linux user
-- Knowledge of scrum
+### Programming Languages
+- C/C++
+- C#
+- Java
+- Javascript
 
-<!--
-**lazaromjr/lazaromjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+- React
+- OpenGl
+- OpenCl
